@@ -1,19 +1,23 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Timeo !
 
-<!--
-**timeo-grrd/timeo-grrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 À propos de moi :
+- 🔭 Je travaille sur des projets **Python** et **PHP**.
+- 🌱 J'apprends de nouvelles choses tous les jours sur VS Code.
+- ⚡ Grand fan de jeux vidéo et de dev.
 
-Here are some ideas to get you started:
+### 🌐 Mes réseaux :
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack :
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ### 📊 Mes Statistiques GitHub :
-![Les stats de Timeo](https://github-readme-stats.vercel.app/api/top-langs/?username=timeo-grrd&layout=compact&theme=vision-glow&hide_border=true)
+![Les stats de Timeo](https://github-readme-stats.vercel.app/api/top-langs/?username=timeo-grrd&layout=compact&theme=dracula&hide_border=false)
 
+---
+*Dernière mise à jour : 2026*
