@@ -17,9 +17,7 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📊 Mes Statistiques GitHub :
-![Stats de Timeo](https://github-readme-stats.vercel.app/api?username=timeo-grrd&show_icons=true&theme=dracula&hide_border=false)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs?username=timeo-grrd&layout=compact&theme=dracula&hide_border=false)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={timeo-grrd}&theme={transparent}
 
 ---
 *Dernière mise à jour : 2026*
