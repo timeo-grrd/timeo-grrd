@@ -17,7 +17,15 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📊 Mes Statistiques GitHub :
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timeo-grrd&theme=transparent
+
+[![](https://raw.githubusercontent.com/timeo-grrd/timeo-grrd/main/profile-summary-card-output/material_palenight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/timeo-grrd/timeo-grrd/main/profile-summary-card-output/material_palenight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/timeo-grrd/timeo-grrd/main/profile-summary-card-output/material_palenight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/timeo-grrd/timeo-grrd/main/profile-summary-card-output/material_palenight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/timeo-grrd/timeo-grrd/main/profile-summary-card-output/material_palenight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/timeo-grrd/timeo-grrd/main/profile-summary-card-output/material_palenight/0-profile-details.svg)
+![](https://raw.githubusercontent.com/timeo-grrd/timeo-grrd/main/profile-summary-card-output/material_palenight/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/timeo-grrd/timeo-grrd/main/profile-summary-card-output/material_palenight/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/timeo-grrd/timeo-grrd/main/profile-summary-card-output/material_palenight/3-stats.svg)
+![](https://raw.githubusercontent.com/timeo-grrd/timeo-grrd/main/profile-summary-card-output/material_palenight/4-productive-time.svg)
 
 ---
 *Dernière mise à jour : 2026*
